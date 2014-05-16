@@ -1,0 +1,46 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.30324.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01.OwinIIS", "01.OwinIIS\01.OwinIIS.csproj", "{F808FD19-D22C-41D2-828A-6F46427EFBC7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02.OwinHost", "02.OwinHost\02.OwinHost.csproj", "{4194EB87-083C-4B76-B745-DEB9F70F8C90}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03.OwinSelfHost", "03.OwinSelfHost\03.OwinSelfHost.csproj", "{4C2CB288-FB56-4A85-B829-19E8D7A3B5D2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04.OwinWebAPI", "04.OwinWebAPI\04.OwinWebAPI.csproj", "{3310B74E-2809-47E3-8B91-319F602A171C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05.OwinMiddlewares", "05.OwinMiddlewares\05.OwinMiddlewares.csproj", "{2CD33ED0-142C-4C28-A5A0-9B59480016DF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F808FD19-D22C-41D2-828A-6F46427EFBC7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F808FD19-D22C-41D2-828A-6F46427EFBC7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F808FD19-D22C-41D2-828A-6F46427EFBC7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F808FD19-D22C-41D2-828A-6F46427EFBC7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4194EB87-083C-4B76-B745-DEB9F70F8C90}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4194EB87-083C-4B76-B745-DEB9F70F8C90}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4194EB87-083C-4B76-B745-DEB9F70F8C90}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4194EB87-083C-4B76-B745-DEB9F70F8C90}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4C2CB288-FB56-4A85-B829-19E8D7A3B5D2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4C2CB288-FB56-4A85-B829-19E8D7A3B5D2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4C2CB288-FB56-4A85-B829-19E8D7A3B5D2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4C2CB288-FB56-4A85-B829-19E8D7A3B5D2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3310B74E-2809-47E3-8B91-319F602A171C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3310B74E-2809-47E3-8B91-319F602A171C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3310B74E-2809-47E3-8B91-319F602A171C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3310B74E-2809-47E3-8B91-319F602A171C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2CD33ED0-142C-4C28-A5A0-9B59480016DF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2CD33ED0-142C-4C28-A5A0-9B59480016DF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2CD33ED0-142C-4C28-A5A0-9B59480016DF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2CD33ED0-142C-4C28-A5A0-9B59480016DF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
