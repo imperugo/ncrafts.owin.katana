@@ -8,4 +8,4 @@ There are 5 demos:
  - **04.OwinWebAPI**: Running WebAPI on top of Katana
  - **05.OwinMiddleware**: example of using 3 different middlewares in the Owin pipeline. The 3 middlewares are built using 3 different approaches.
 
- The slides of the talk are available on Slideshare.
+ The slides of the talk are available on Slideshare [here](http://www.slideshare.net/imperugo/owin-and-katana)
